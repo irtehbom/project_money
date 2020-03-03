@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/project_money/resources/views/products/add_product.blade.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/app/Classes/Products.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/app/Http/Controllers/slugController.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/resources/views/products/edit_product.blade.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/app/Http/Controllers/productsController.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/resources/views/buying_guides/edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/app/Helpers/helperFunctions.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/resources/views/buying_guides/template.blade.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/app/Classes/AmazonECS.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/resources/views/settings/settings.blade.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/app/Http/Controllers/guidesController.php</file>
+            <file>file:/C:/xampp/htdocs/project_money/config/location.php</file>
+        </group>
+    </open-files>
+</project-private>
